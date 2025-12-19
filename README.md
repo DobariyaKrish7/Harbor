@@ -73,8 +73,8 @@ word_count/
   - Different line endings (\n, \r\n)
 
 ## 📧 Submission
-Submitted by: [Your Name]  
-Email: [Your Email]  
+Submitted by: Krish
+Email: Krishdobariya251@gmail.com  
 Date: 2025-12-20
 
 ## 📄 License
